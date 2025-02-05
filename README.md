@@ -8,4 +8,4 @@ Repo of Excel resources to update a legacy system's data analysis processes
 -  Salary Analysis: https://github.com/jakubowv/ExcelDataAnalytics-DSSalaries
 -  Bike Sales Analysis: https://github.com/SaiSurajMatta/Bike-Sales-Excel-Dashboard-Project
 -  Store Annual Reporting: https://github.com/NakulSachdeva/Sachdeva-Store-Annual-Report
--  
+  
