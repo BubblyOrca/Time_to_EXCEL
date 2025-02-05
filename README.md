@@ -9,3 +9,5 @@ Repo of Excel resources to update a legacy system's data analysis processes
 -  Bike Sales Analysis: https://github.com/SaiSurajMatta/Bike-Sales-Excel-Dashboard-Project
 -  Store Annual Reporting: https://github.com/NakulSachdeva/Sachdeva-Store-Annual-Report
   
+## CRM Project 
+Data source: https://mavenanalytics.io/data-playground?page=3&pageSize=5
